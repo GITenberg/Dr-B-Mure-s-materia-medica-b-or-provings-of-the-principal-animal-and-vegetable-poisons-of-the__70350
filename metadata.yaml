@@ -13,6 +13,9 @@ contributor:
     gutenberg_agent_id: '55720'
     url: http://www.gutenberg.org/2009/agents/55720
     wikipedia: https://en.wikipedia.org/wiki/Charles_Julius_Hempel
+covers:
+- cover_type: archival
+  image_path: 70350-h/images/cover.jpg
 creator:
   author:
     agent_name: Mure, Benoît
@@ -27,6 +30,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Beno%C3%AEt_Jules_Mure
     - https://en.wikipedia.org/wiki/Beno%C3%AEt_Jules_Mure
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70350#Dr-B-Mure-s-materia-medica-b-or-provings-of-the-principal-animal-and-vegetable-poisons-of-the_
 gutenberg_issued: '2023-03-22'
 identifiers:
   gutenberg: '70350'
